@@ -1,3 +1,5 @@
 {
-  "alias": "test.cajthaml.cz"
+  "version": 2,
+  "alias": "test.cajthaml.cz",
+  "region": "bru1"
 }
