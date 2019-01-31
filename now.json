@@ -1,4 +1,5 @@
 {
   "version": 2,
-  "alias": "test.cajthaml.cz"
+  "alias": "test.cajthaml.cz",
+  "regions": ["bru1"]
 }
